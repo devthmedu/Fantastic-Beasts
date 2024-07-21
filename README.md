@@ -1,41 +1,39 @@
+# Fantastic Beasts
+![Sample image](https://github.com/thmedu/Animais-Fantasticos/assets/141462806/8731fdeb-b508-4f0d-8f13-a583a79a1f46)
 
-# Animais Fantásticos
+The Fantastic Animals project was developed as part of Origamida's JavaScript course. It is an interactive website that allows you to explore detailed information about different fantastic creatures.
 
-O projeto  Animais Fantásticos foi desenvolvido como parte do curso de JavaScript da Origamid. Ele é um site interativo que permite explorar informações detalhadas sobre diferentes criaturas fantásticas.
-  
-  ![Post minimalista marketing digital roxo branco e azul (4)](https://github.com/thmedu/Animais-Fantasticos/assets/141462806/8731fdeb-b508-4f0d-8f13-a583a79a1f46)
 
-## Funcionalidades
+## 🌟 Features
 
-- **Visualização de Criaturas Fantásticas**: Explore informações detalhadas sobre diferentes criaturas, como suas características, habilidades e curiosidades.
-  
-- **Pesquisa e Filtragem**: Capacidade de pesquisar criaturas específicas por nome ou tipo e filtrar por características específicas.
-  
-- **Responsivo**: O site é totalmente responsivo, garantindo uma experiência de usuário consistente em diferentes dispositivos e tamanhos de tela.
-  
-- **Navegação Intuitiva**: Interface fácil de usar com navegação clara e organizada para acessar informações sobre as criaturas.
+- **Fantastic Creatures View**: Explore information built about different creatures, such as their characteristics, abilities and curiosities.
 
-## Tecnologias Utilizadas
+- **Search and Filtering**: Ability to search for specific traits by name or type and filter by specific traits.
 
-- **HTML5**: Utilizado para estruturação semântica do conteúdo da página.
-  
-- **CSS3**: Estilização e design responsivo foram implementados com CSS3 puro.
-  
-- **JavaScript**: Interatividade e manipulação do DOM foram implementadas com JavaScript puro.
-  
-- **Origamid**: Desenvolvido como parte do curso de JavaScript da Origamid, focando em práticas modernas e eficazes para desenvolvimento web.
+- **Responsive**: The website is fully responsive, ensuring a consistent user experience across different devices and screen sizes.
 
-## Como Executar o Projeto
+- **Intuitive Navigation**: Easy-to-use interface with clear and organized navigation to access information about creatures.
 
-Não é necessário baixar ou instalar o projeto localmente, pois ele está hospedado online. Basta acessar o site através do link:
+## 🛠 Technologies Used
 
-[Animais Fantásticos - Acesse Aqui](https://thmedu.github.io/Animais-Fantasticos/)
+- **HTML5**: Used for semantic structuring of page content.
 
-## Contribuição
+- **CSS3**: Styling and responsive design were implemented with pure CSS3.
 
-Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias ou correções de bugs.
+- **JavaScript**: Interactivity and DOM manipulation were innovative with pure JavaScript.
 
-## Autor
+- **Origamid**: Developed as part of Origamida's JavaScript course, focusing on modern and effective practices for web development.
 
-Este projeto foi desenvolvido como parte do curso de JavaScript da [Origamid](https://www.origamid.com/).
+## ▶️ How to execute the project
 
+There is no need to download or install the project locally as it is hosted online. Just access the website via the link:
+
+[Fantastic Beasts - Access Here](https://thmedu.github.io/Animais-Fantasticos/)
+
+## 🙌 Contribution
+
+Contributions are welcome! Feel free to submit pull requests with improvements or bug fixes.
+
+## 👨‍💻 Author
+
+This project was developed as part of the [Origamid](https://www.origamid.com/) JavaScript course.
