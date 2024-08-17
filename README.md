@@ -1,39 +1,40 @@
+
+![1](https://github.com/user-attachments/assets/45e4f5f6-8b11-46da-a73d-1c13ba176251)
+
 # Fantastic Beasts
-![Sample image](https://github.com/thmedu/Animais-Fantasticos/assets/141462806/8731fdeb-b508-4f0d-8f13-a583a79a1f46)
 
-The Fantastic Animals project was developed as part of Origamida's JavaScript course. It is an interactive website that allows you to explore detailed information about different fantastic creatures.
+O projeto Fantastic Animals foi desenvolvido como parte do curso de JavaScript da Origamida. Trata-se de um site interativo que permite explorar informações detalhadas sobre diferentes criaturas fantásticas.
 
+## 🌟 Funcionalidades
 
-## 🌟 Features
+- **Visualização de Criaturas Fantásticas**: Explore informações detalhadas sobre diversas criaturas, como características, habilidades e curiosidades.
 
-- **Fantastic Creatures View**: Explore information built about different creatures, such as their characteristics, abilities and curiosities.
+- **Busca e Filtros**: Capacidade de buscar por características específicas pelo nome ou tipo e filtrar por traços específicos.
 
-- **Search and Filtering**: Ability to search for specific traits by name or type and filter by specific traits.
+- **Responsivo**: O site é totalmente responsivo, garantindo uma experiência de usuário consistente em diferentes dispositivos e tamanhos de tela.
 
-- **Responsive**: The website is fully responsive, ensuring a consistent user experience across different devices and screen sizes.
+- **Navegação Intuitiva**: Interface fácil de usar com navegação clara e organizada para acessar informações sobre as criaturas.
 
-- **Intuitive Navigation**: Easy-to-use interface with clear and organized navigation to access information about creatures.
+## 🛠 Tecnologias Utilizadas
 
-## 🛠 Technologies Used
+- **HTML5**: Utilizado para a estruturação semântica do conteúdo da página.
 
-- **HTML5**: Used for semantic structuring of page content.
+- **CSS3**: Estilização e design responsivo foram implementados com CSS3 puro.
 
-- **CSS3**: Styling and responsive design were implemented with pure CSS3.
+- **JavaScript**: Interatividade e manipulação do DOM foram realizadas com JavaScript puro.
 
-- **JavaScript**: Interactivity and DOM manipulation were innovative with pure JavaScript.
+- **Origamid**: Desenvolvido como parte do curso de JavaScript da Origamida, focando em práticas modernas e eficazes para o desenvolvimento web.
 
-- **Origamid**: Developed as part of Origamida's JavaScript course, focusing on modern and effective practices for web development.
+## ▶️ Como Executar o Projeto
 
-## ▶️ How to execute the project
+Não há necessidade de baixar ou instalar o projeto localmente, pois ele está hospedado online. Acesse o site através do link:
 
-There is no need to download or install the project locally as it is hosted online. Just access the website via the link:
+[Fantastic Beasts - Acesse Aqui](https://thmedu.github.io/Animais-Fantasticos/)
 
-[Fantastic Beasts - Access Here](https://thmedu.github.io/Animais-Fantasticos/)
+## 🙌 Contribuição
 
-## 🙌 Contribution
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias ou correções de bugs.
 
-Contributions are welcome! Feel free to submit pull requests with improvements or bug fixes.
+## 👨‍💻 Autor
 
-## 👨‍💻 Author
-
-This project was developed as part of the [Origamid](https://www.origamid.com/) JavaScript course.
+Este projeto foi desenvolvido como parte do curso de JavaScript da [Origamid](https://www.origamid.com/).
